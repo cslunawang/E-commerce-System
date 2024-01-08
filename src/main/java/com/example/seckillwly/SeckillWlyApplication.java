@@ -1,0 +1,13 @@
+package com.example.seckillwly;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SeckillWlyApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(SeckillWlyApplication.class, args);
+    }
+
+}
